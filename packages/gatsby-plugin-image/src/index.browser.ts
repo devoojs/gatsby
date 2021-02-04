@@ -12,6 +12,7 @@ export {
   getSrc,
   useGatsbyImage,
   useArtDirection,
+  useImageUrlBuilder,
   IArtDirectedImage,
 } from "./components/hooks"
 export {
